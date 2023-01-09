@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/Main.ts"],
+  "sourcesContent": ["var __decorate = __$decorate('7bad1742-6eed-4d8d-81c0-501dc5bf03d6', '../src/Main.ts');\nconst { regClass, property } = Laya;\r\nlet Main = class Main extends Laya.Script {\r\n    onStart() {\r\n        console.log(\"Game start\");\r\n    }\r\n};\r\nMain = __decorate([\r\n    regClass()\r\n], Main);\r\nexport { Main };\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,MAAI,aAAa,YAAY,wCAAwC,gBAAgB;AACrF,MAAM,EAAE,UAAU,SAAS,IAAI;AAC/B,MAAI,OAAO,6BAAMA,cAAa,KAAK,OAAO;AAAA,IACtC,UAAU;AACN,cAAQ,IAAI,YAAY;AAAA,IAC5B;AAAA,EACJ,GAJW;AAKX,SAAO,WAAW;AAAA,IACd,SAAS;AAAA,EACb,GAAG,IAAI;",
+  "names": ["Main"]
+}
